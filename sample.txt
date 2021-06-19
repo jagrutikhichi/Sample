@@ -1,1 +1,2 @@
-This is my first Text
+This is my first Text file
+Creating merge conflict from local
